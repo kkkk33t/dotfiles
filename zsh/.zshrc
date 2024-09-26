@@ -1,5 +1,3 @@
-#set the home dir
-cd ~
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -8,7 +6,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 
-#add git proxy
+#add git proxy jugle
 proxy() {
     if [ "$1" = "on" ]; then
         git config --global http.proxy 127.0.0.1:7897
@@ -44,11 +42,12 @@ zinit light-mode for \
     zdharma-continuum/zinit-annex-bin-gem-node \
     zdharma-continuum/zinit-annex-patch-dl \
     zdharma-continuum/zinit-annex-rust \
-    zsh-users/zsh-syntax-highlighting \
+    zdharma-continuum/fast-syntax-highlighting \
     zsh-users/zsh-autosuggestions \
-    MichaelAquilina/zsh-you-should-use
+    MichaelAquilina/zsh-you-should-use 
 ### End of Zinit's installer chunk
 
+#install the powerlevel10k theme
 zinit ice depth=1; zinit light romkatv/powerlevel10k
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
@@ -57,8 +56,10 @@ zinit ice depth=1; zinit light romkatv/powerlevel10k
 
 #change the que of zsh-you-should-use
 export YSU_MESSAGE_POSITION="after"
+
 #omz plugins
-zinit snippet https://kkgithub.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh
+zinit snippet https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh
+#solve the git plugin problems
 unset ZSH_AUTOSUGGEST_USE_ASYNC
 
 #set the zsh history function
@@ -88,13 +89,8 @@ alias mv='mv -i'
 alias mkdir='mkdir -pv'
 alias cp='cp -i'
 alias vmrun='/d/Program\ Files/VMware/vmrun.exe'
-scoop() {
-    if [[ "$1" == "search" ]]; then
-        scoop-search "$@"
-    else
-        command scoop "$@"
-    fi
-}
+alias ghosts='vi /c/windows/system32/drivers/etc/hosts'
+alias home='cd ~'
 alias ll='ls -al'
 alias poweroff='shutdown -s -t 1'
 
@@ -102,7 +98,7 @@ alias poweroff='shutdown -s -t 1'
 autoload -Uz compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 
-#change the ya command
+#change the yazi command
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
 	yazi "$@" --cwd-file="$tmp"
@@ -111,8 +107,8 @@ function y() {
 	fi
 	rm -f -- "$tmp"
 }
-#set not use cd
-#setopt AUTO_CD
 
-#set incr
-#source ~/incr/incr*.zsh
+#add to path
+export PATH="/mingw64/bin:$PATH"
+export PATH="$HOME/bin:$PATH"
+
