@@ -1,0 +1,45 @@
+#!/bin/bash
+
+# 打印帮助信息
+print_help() {
+  echo "用法: so [选项] [搜索词或网址]"
+  echo
+  echo "选项:"
+  echo "  -d <域名>  在浏览器中打开指定的域名。"
+  echo "  -h         打印这个帮助信息。"
+  echo
+  echo "示例:"
+  echo "  so -d baidu.com  在浏览器中打开 baidu.com。"
+  echo "  so '搜索词'    使用 '搜索词' 在浏览器上进行搜索。"
+  echo "  so https://site.com 在浏览器中打开指定的网址。"
+  exit 1
+}
+
+# 检查是否有参数传递
+if [[ $# -eq 0 ]]; then
+  print_help
+fi
+
+# 处理参数
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    -d)
+      shift # 移除 -d 参数
+      /d/scoop/apps/ungoogled-chromium/current/chrome.exe "$1"
+      exit 0
+      ;;
+    -h)
+      print_help
+      ;;
+    *)
+      if [[ $1 =~ ^https?:// ]]; then
+        /d/scoop/apps/ungoogled-chromium/current/chrome.exe "$1"
+      else
+        query=$(printf "%s" "$*" | xargs -0 | sed 's/ /+/g')
+        /d/scoop/apps/ungoogled-chromium/current/chrome.exe "https://www.bing.com/search?q=$query"
+      fi
+      exit 0
+      ;;
+  esac
+done
+
