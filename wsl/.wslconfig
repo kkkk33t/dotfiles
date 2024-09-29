@@ -1,0 +1,13 @@
+[wsl2]
+kernel=D:\\kernel
+ipv6=true
+networkingMode=mirrored
+dnsTunneling=true
+firewall=true
+autoProxy=true
+defaultVhdSize=137438953472
+[experimental]
+autoMemoryReclaim=gradual
+bestEffortDnsParsing=true
+#useWindowsDnsCache=true
+
