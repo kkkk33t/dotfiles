@@ -1,0 +1,244 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://raw.githubusercontent.com/microsoft/terminal/main/doc/cascadia/profiles.schema.json",
+    "actions": [],
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{1ef52d73-2a7b-444f-883e-4535265c929c}",
+    "keybindings": 
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.DuplicatePaneAuto",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "Calamity",
+            "font": 
+            {
+                "face": "FiraCode Nerd Font Mono"
+            }
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "opacity": 95
+            },
+            {
+                "colorScheme": "Ubuntu",
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "font": 
+                {
+                    "face": "FiraCode Nerd Font Mono"
+                },
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "\u547d\u4ee4\u63d0\u793a\u7b26"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "colorScheme": "Calamity",
+                "commandline": "C:\\Users\\dsb\\scoop\\apps\\nu\\current\\nu.exe",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "face": "FiraCode Nerd Font Mono",
+                    "size": 12
+                },
+                "guid": "{1ef52d73-2a7b-444f-883e-4535265c929c}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "C:\\Users\\dsb\\Pictures\\SimpleIconsNushell.png",
+                "name": "Nu",
+                "opacity": 100,
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": "E:\\Users\\cy",
+                "useAcrylic": false
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "colorScheme": "Calamity",
+                "commandline": "C:\\Users\\dsb\\scoop\\apps\\msys2\\current\\msys2_shell.cmd -defterm -no-start -use-full-path -here -msys2",
+                "cursorShape": "filledBox",
+                "font": 
+                {
+                    "face": "FiraCode Nerd Font Mono",
+                    "size": 12
+                },
+                "guid": "{231a715f-4f37-4c89-9755-9b35a18ed4aa}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "ms-appx:///ProfileIcons/{61c54bbd-c2c6-5271-96e7-009a87ff44bf}.png",
+                "name": "Msys2",
+                "opacity": 95,
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": "C:\\Users\\dsb\\scoop\\persist\\msys2\\home\\dsb",
+                "useAcrylic": false
+            },
+            {
+                "colorScheme": "Calamity",
+                "commandline": "ssh hm@hnt.wch1.top -p13200",
+                "cursorShape": "filledBox",
+                "font": 
+                {
+                    "face": "FiraCode Nerd Font Mono"
+                },
+                "guid": "{5e07bd5a-efea-4ffb-97d9-5f3748f75d58}",
+                "hidden": false,
+                "name": "\u670d\u52a1\u56682\u6838\u534e\u4e3a\u4e91"
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#0F1610",
+            "black": "#112616",
+            "blue": "#2F6A7F",
+            "brightBlack": "#3C4812",
+            "brightBlue": "#00AAE0",
+            "brightCyan": "#00E0C4",
+            "brightGreen": "#18E000",
+            "brightPurple": "#0058E0",
+            "brightRed": "#E08009",
+            "brightWhite": "#73FA91",
+            "brightYellow": "#BDE000",
+            "cursorColor": "#73FA91",
+            "cyan": "#327F77",
+            "foreground": "#637D75",
+            "green": "#2F7E25",
+            "name": "AlienBlood",
+            "purple": "#47587F",
+            "red": "#7F2B27",
+            "selectionBackground": "#1D4125",
+            "white": "#647D75",
+            "yellow": "#717F24"
+        },
+        {
+            "background": "#2F2833",
+            "black": "#2F2833",
+            "blue": "#3B79C7",
+            "brightBlack": "#7E6C88",
+            "brightBlue": "#3B79C7",
+            "brightCyan": "#74D3DE",
+            "brightGreen": "#A5F69C",
+            "brightPurple": "#F92672",
+            "brightRed": "#FC644D",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#E9D7A5",
+            "cursorColor": "#D5CED9",
+            "cyan": "#74D3DE",
+            "foreground": "#D5CED9",
+            "green": "#A5F69C",
+            "name": "Calamity",
+            "purple": "#F92672",
+            "red": "#FC644D",
+            "selectionBackground": "#7E6C88",
+            "white": "#D5CED9",
+            "yellow": "#E9D7A5"
+        },
+        {
+            "background": "#1E1E1E",
+            "black": "#1E1E1E",
+            "blue": "#377375",
+            "brightBlack": "#7F7061",
+            "brightBlue": "#719586",
+            "brightCyan": "#7DB669",
+            "brightGreen": "#AAB01E",
+            "brightPurple": "#C77089",
+            "brightRed": "#F73028",
+            "brightWhite": "#E6D4A3",
+            "brightYellow": "#F7B125",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#578E57",
+            "foreground": "#E6D4A3",
+            "green": "#868715",
+            "name": "Gruvbox Dark",
+            "purple": "#A04B73",
+            "red": "#BE0F17",
+            "selectionBackground": "#FFFFFF",
+            "white": "#978771",
+            "yellow": "#CC881A"
+        },
+        {
+            "background": "#000000",
+            "black": "#000000",
+            "blue": "#0000B2",
+            "brightBlack": "#666666",
+            "brightBlue": "#0000FF",
+            "brightCyan": "#00E5E5",
+            "brightGreen": "#00D900",
+            "brightPurple": "#E500E5",
+            "brightRed": "#E50000",
+            "brightWhite": "#E5E5E5",
+            "brightYellow": "#E5E500",
+            "cursorColor": "#23FF18",
+            "cyan": "#00A6B2",
+            "foreground": "#00FF00",
+            "green": "#00A600",
+            "name": "Homebrew",
+            "purple": "#B200B2",
+            "red": "#990000",
+            "selectionBackground": "#083905",
+            "white": "#BFBFBF",
+            "yellow": "#999900"
+        },
+        {
+            "background": "#300A24",
+            "black": "#171421",
+            "blue": "#0037DA",
+            "brightBlack": "#767676",
+            "brightBlue": "#08458F",
+            "brightCyan": "#2C9FB3",
+            "brightGreen": "#26A269",
+            "brightPurple": "#A347BA",
+            "brightRed": "#C01C28",
+            "brightWhite": "#F2F2F2",
+            "brightYellow": "#A2734C",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3A96DD",
+            "foreground": "#FFFFFF",
+            "green": "#26A269",
+            "name": "Ubuntu",
+            "purple": "#881798",
+            "red": "#C21A23",
+            "selectionBackground": "#FFFFFF",
+            "white": "#CCCCCC",
+            "yellow": "#A2734C"
+        }
+    ],
+    "themes": []
+}
