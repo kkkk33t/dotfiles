@@ -1,0 +1,2324 @@
+  2024-09-20T11:53:42.402129Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:42.402795Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:42.402887Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:42.403141Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:42.403167Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:42.403211Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.513932Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.514392Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.514670Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.514685Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.514787Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:45.514927Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390162Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390301Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390371Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390769Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390778Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:57.390818Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.352016Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.352796Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.353120Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.353135Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.353183Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T11:53:58.353230Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop\apps\msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.354687Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.355498Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.355697Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.355998Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.356109Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:29.356124Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.625626Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.626121Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.626196Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.626248Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.626282Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T12:07:47.626347Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.622643Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.622643Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.623247Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.623262Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.623279Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T14:10:41.623327Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.900699Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.901036Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.901179Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.901441Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.901461Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-20T15:36:00.901511Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.420372Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.420976Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.421298Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.421493Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.421558Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T00:36:53.421567Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.303983Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.304352Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.304678Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.305267Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.305379Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:12:00.305435Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.662034Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.662596Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.662854Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.662925Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.663306Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:40.663404Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.136684Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.137563Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.137618Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.137959Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.138052Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:15:55.138068Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:16:52.915070Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:16:52.915318Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Users\nu_home\49a1a858-favicon-32x32-ascii-art.txt
+D:\Users\nu_home\49a1a858-favicon-32x32.png
+D:\Users\nu_home\数据库开关.sh
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:16:54.190789Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:16:54.190966Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\ContextMenuManager.NET.4.0.exe
+D:\emeditor.rar
+D:\ep_setup.exe
+D:\Git-2.46.0-64-bit.exe
+D:\hadoop2.7.tar
+D:\HEU_KMS激活工具.rar
+D:\Typora1.9.4.zip
+D:\图片.lnk
+D:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:17:30.002863Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:17:30.004414Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:17:30.004631Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:17:30.004693Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:17:30.004714Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:17:30.004768Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:20:44.885222Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:20:44.885440Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Users\nu_home\49a1a858-favicon-32x32-ascii-art.txt
+D:\Users\nu_home\49a1a858-favicon-32x32.png
+D:\Users\nu_home\数据库开关.sh
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:20:45.783242Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:20:45.783454Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\ContextMenuManager.NET.4.0.exe
+D:\emeditor.rar
+D:\ep_setup.exe
+D:\Git-2.46.0-64-bit.exe
+D:\hadoop2.7.tar
+D:\HEU_KMS激活工具.rar
+D:\Typora1.9.4.zip
+D:\图片.lnk
+D:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:20:47.022883Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:20:47.023045Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\wsl\Alpine.zip
+D:\wsl\wslubuntu2204.7z
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:20:48.046205Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T01:20:48.046368Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\wsl\CanonicalGroupLimited.UbuntuonWindows_2004.2021.825.0\AppxBlockMap.xml
+D:\wsl\CanonicalGroupLimited.UbuntuonWindows_2004.2021.825.0\AppxSignature.p7x
+D:\wsl\CanonicalGroupLimited.UbuntuonWindows_2004.2021.825.0\[Content_Types].xml
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T01:21:26.510727Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:26.510964Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:26.511135Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:26.511767Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:26.511891Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:26.511930Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.849956Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.850478Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.850581Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.851191Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.851248Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:21:38.851265Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152022Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152143Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152263Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152345Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152386Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:45:28.152463Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.557662Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.557652Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.558189Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.558240Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.558249Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:50:51.558262Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.172050Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.172663Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.172980Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.173078Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.173131Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:40.173158Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.975485Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.975801Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.975938Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.976018Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.976152Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:51:54.976181Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.612249Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\01 openGauss概述.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.614601Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\2020外研社阅读大赛样题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616332Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\三峡大学计算机科学与技术专业本科人才培养方案V2022(10-30).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616388Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\启明星开发组暑期培训日程表 .pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616443Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\数据建模分组大作业案例业务描述及作业要求.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616474Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\01 openGauss概述 (1).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616593Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\openGuass连接问题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.616866Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\关于发布2022三峡大学体育节暨街舞健身操大赛成绩的通知.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.617058Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\navicat16连接openGuass.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.618172Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\习概论简答题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.618357Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\《本科生学生手册》2022版.pdf; filename=utf-8''《本科生学生手册》2022版.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:55:01.620938Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\基于情感特征和谣言种类的谣言检测_张明书.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:57:25.873152Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/202210120529\蔡阳\书籍\图解HTTP (上野宣) (Z-Library).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:57:25.874456Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/202210120529\蔡阳\书籍\图解TCPIP（第5版） (竹下隆史, 村山公保, 荒井透, 苅田幸雄) (Z-Library).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T01:57:25.874474Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/202210120529\蔡阳\书籍\Termux入门指南（Github 白).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:28:10.497555Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:28:22.409777Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:28:30.033996Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:28:31.742421Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:28:53.353117Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:29:02.658197Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:29:31.587673Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:29:33.637369Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:29:53.042457Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:29:56.124149Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:30:01.059204Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:30:02.630586Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:30:08.385753Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T02:38:48.425439Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:38:48.425497Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:38:48.425729Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:38:48.425887Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:38:48.425901Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:38:48.425952Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T02:44:01.449908Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T03:05:07.051701Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:05:07.052277Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:05:07.052610Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:05:07.052749Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:05:07.052842Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:05:07.052950Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.694716Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.694788Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.695894Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.695917Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.695958Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:10.696089Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811230Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811423Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811510Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811779Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811794Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T03:24:13.811795Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T04:22:00.646578Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\.ash_history
+C:/Users/cy\.bash_history
+C:/Users/cy\.gitconfig
+C:/Users/cy\.inputrc
+C:/Users/cy\.lesshst
+C:/Users/cy\.npmrc
+C:/Users/cy\.scooper.db
+C:/Users/cy\.viminfo
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:/Users/cy\ntuser.ini
+C:/Users/cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:22:01.869857Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:22:04.490661Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:22:06.098110Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:22:34.915189Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:22:47.817456Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:30:25.989624Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\.ash_history
+C:/Users/cy\.bash_history
+C:/Users/cy\.gitconfig
+C:/Users/cy\.inputrc
+C:/Users/cy\.lesshst
+C:/Users/cy\.npmrc
+C:/Users/cy\.scooper.db
+C:/Users/cy\.viminfo
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:/Users/cy\ntuser.ini
+C:/Users/cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:30:27.014046Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:36:16.581274Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\.ash_history
+C:/Users/cy\.bash_history
+C:/Users/cy\.gitconfig
+C:/Users/cy\.inputrc
+C:/Users/cy\.lesshst
+C:/Users/cy\.npmrc
+C:/Users/cy\.scooper.db
+C:/Users/cy\.viminfo
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:/Users/cy\ntuser.ini
+C:/Users/cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:36:17.806302Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:36:41.323656Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:37:04.658861Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:37:10.974917Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T04:37:12.589885Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:28.357852Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\.ash_history
+C:/Users/cy\.bash_history
+C:/Users/cy\.gitconfig
+C:/Users/cy\.inputrc
+C:/Users/cy\.lesshst
+C:/Users/cy\.npmrc
+C:/Users/cy\.scooper.db
+C:/Users/cy\.viminfo
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:/Users/cy\ntuser.ini
+C:/Users/cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:30.132215Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:41.695833Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:48.628852Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:49.216686Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:57:59.882831Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:58:06.216639Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:58:32.056319Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:58:36.408660Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:58:37.286520Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T05:58:39.268183Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:04:28.751093Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/Users/cy\.ash_history
+C:/Users/cy\.bash_history
+C:/Users/cy\.gitconfig
+C:/Users/cy\.inputrc
+C:/Users/cy\.lesshst
+C:/Users/cy\.npmrc
+C:/Users/cy\.scooper.db
+C:/Users/cy\.viminfo
+C:/Users/cy\NTUSER.DAT
+C:/Users/cy\ntuser.dat.LOG1
+C:/Users/cy\ntuser.dat.LOG2
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:/Users/cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:/Users/cy\ntuser.ini
+C:/Users/cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:04:29.932401Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:04:42.880451Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:04:51.773424Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:05:20.945388Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T06:05:24.505967Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:/bootTel.dat
+C:/DumpStack.log.tmp
+C:/pagefile.sys
+C:/swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:16.720974Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:16.720995Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:16.720974Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:16.720988Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:16.721021Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:16.721142Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:16:21.653280Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:29.932066Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:44.969384Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:47.372194Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:53.394210Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:16:57.803363Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:17:01.673419Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:17:04.755538Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:17:06.074898Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T08:17:13.294770Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.294987Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\东洋雪莲520AM.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.300138Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.300456Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.300856Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\4K-vedio.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.301157Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.301536Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\瓜如雪.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.301572Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.301950Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\如何在ipv6的vps上搭建科学上网的节点 ipv6的vps节点搭建教程.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.302131Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.302208Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.302477Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\bilicoser.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.302587Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\Wake.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.302857Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.303024Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\chengdushuimei01.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.303044Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.303152Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.303202Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\苗族视频.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.303328Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\ffmpeg介绍.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.303571Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.303721Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.303859Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\烟distance.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.303859Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.304008Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\迈腾.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.304034Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:13.304099Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\Never gona give you up.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.304263Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `D:/Users\vedio\Play\bilibili\格温520AM.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T08:17:13.679388Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:16.511114Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:17.656534Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:17.968037Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:18.640319Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:18.887855Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:19.207303Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-21T08:17:48.641662Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T09:06:32.420605Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T09:06:40.856728Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T09:12:44.904022Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:12:44.904075Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:12:44.904090Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:12:44.904109Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:12:44.904185Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:12:44.904277Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T09:13:34.207131Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-21T10:05:04.363947Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:04.364190Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:04.364286Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:04.364453Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:04.364462Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:04.364641Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-21T10:05:06.101639Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T03:03:31.051876Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:31.052039Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:31.052398Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:31.052513Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:31.052547Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:31.052544Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T03:03:33.630868Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T05:45:50.797385Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:50.797429Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:50.797357Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:50.797623Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:50.797676Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:50.797743Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T05:45:53.424514Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/SmartTaskbar_Setup.exe
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T05:46:05.472880Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:02.684605Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:02.684822Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:02.684945Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:02.685189Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:02.685341Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:02.685356Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:08.032834Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/SmartTaskbar_Setup.exe
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:10.610200Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:25.353929Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:27.354132Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:34.142233Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\openGuass连接问题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.142590Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\三峡大学计算机科学与技术专业本科人才培养方案V2022(10-30).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.144526Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\2020外研社阅读大赛样题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.145622Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\01 openGauss概述.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.145626Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\navicat16连接openGuass.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.146961Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\《本科生学生手册》2022版.pdf; filename=utf-8''《本科生学生手册》2022版.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.147528Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\启明星开发组暑期培训日程表 .pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.147669Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\习概论简答题.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.147807Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\基于情感特征和谣言种类的谣言检测_张明书.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.147856Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\01 openGauss概述 (1).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.147993Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\数据建模分组大作业案例业务描述及作业要求.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:34.148116Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\关于发布2022三峡大学体育节暨街舞健身操大赛成绩的通知.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:40.601783Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\计算机组成与结构 期末复习_参考_by_Auspicious.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:40.601780Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\附件2.普通话培训测试技法简介.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:40.603104Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `D:/Chat_data\计算机网络A卷_解析参考_by_Auspicious.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T06:06:51.048680Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T06:06:55.440608Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T07:36:40.201483Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T07:36:40.201474Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T07:36:40.201571Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T07:36:40.201633Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T07:36:40.201631Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T07:36:40.201642Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.598200Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.598889Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.598900Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.599139Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.599242Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:50.599283Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T08:32:52.033754Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/SmartTaskbar_Setup.exe
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T08:32:59.417066Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T13:15:17.623042Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:17.623140Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:17.623176Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:17.623182Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:17.623186Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:17.623186Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:15:20.157686Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T13:23:59.806458Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:23:59.806487Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:23:59.806851Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:23:59.807041Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:23:59.807155Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:23:59.807500Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:24:03.804884Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T13:24:14.940262Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T13:28:30.997229Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:30.997272Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:30.997353Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:30.997706Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:30.997784Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:30.997884Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.161973Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.162092Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.162429Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.162439Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.162496Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:33.162506Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864081Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864142Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864376Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864537Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864554Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:36.864649Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-22T13:28:38.349152Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T14:54:27.412468Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+D:/fastfetch-linux-amd64.tar.gz
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-22T14:54:43.097707Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T05:29:42.201852Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:42.201897Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:42.201956Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:42.202253Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:42.202368Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:42.202399Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.358239Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.358792Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.358803Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.359117Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.359114Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:47.359231Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.567326Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.567624Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.567980Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.568085Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.568101Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:48.568278Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2\current\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T05:29:50.751822Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T05:30:03.769885Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T05:30:08.283325Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T05:30:10.611137Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T05:30:11.882709Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T08:19:49.386522Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T08:19:49.386752Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Users\nu_home\49a1a858-favicon-32x32.png
+D:\Users\nu_home\ubuntu-ascii-art.txt
+D:\Users\nu_home\数据库开关.sh
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T08:19:50.372462Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T08:19:50.372637Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\ContextMenuManager.NET.4.0.exe
+D:\DumpStack.log.tmp
+D:\emeditor.rar
+D:\ep_setup.exe
+D:\fetch-github-hosts.zip
+D:\Git-2.46.0-64-bit.exe
+D:\hadoop2.7.tar
+D:\HEU_KMS激活工具.rar
+D:\Typora1.9.4.zip
+D:\图片.lnk
+D:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T08:20:32.295109Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T08:20:32.295282Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Chat_data\MobileFile\计科专业大二学年排名.xlsx
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T08:20:32.297147Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T08:20:32.297360Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Chat_data\MobileFile\44-202210120510-向申赤-课设.pkt
+D:\Chat_data\MobileFile\45-202210120510-向申赤.docx
+D:\Chat_data\MobileFile\202210120508_李淳_多周期CPU设计.doc
+D:\Chat_data\MobileFile\202210120508李淳.docx
+D:\Chat_data\MobileFile\202210120518_胡国昌_单周期CPU设计.doc
+D:\Chat_data\MobileFile\202210120518_胡国昌_多周期CPU设计.doc
+D:\Chat_data\MobileFile\1701691041267.jpg
+D:\Chat_data\MobileFile\1701691260151.jpg
+D:\Chat_data\MobileFile\1701697607305.jpg
+D:\Chat_data\MobileFile\1715601118649.jpg
+D:\Chat_data\MobileFile\1726387018114.jpg
+D:\Chat_data\MobileFile\1726389168904.jpg
+D:\Chat_data\MobileFile\c07804e67a134cef9c962945d389590d.png
+D:\Chat_data\MobileFile\Cache_-7ed85bfd9825246d..jpg
+D:\Chat_data\MobileFile\Desktop.rar
+D:\Chat_data\MobileFile\IMG_20240122_101210.jpg
+D:\Chat_data\MobileFile\IMG_20240602_182716.jpg
+D:\Chat_data\MobileFile\IMG_20240602_182728.jpg
+D:\Chat_data\MobileFile\IMG_20240602_183219.jpg
+D:\Chat_data\MobileFile\IMG_20240602_183243.jpg
+D:\Chat_data\MobileFile\IMG_20240710_220301.jpg
+D:\Chat_data\MobileFile\IMG_20240710_221252.jpg
+D:\Chat_data\MobileFile\IMG_20240710_221716.jpg
+D:\Chat_data\MobileFile\IMG_20240710_221736.jpg
+D:\Chat_data\MobileFile\IMG_20240710_221746.jpg
+D:\Chat_data\MobileFile\IMG_20240816_224528.jpg
+D:\Chat_data\MobileFile\IMG_20240912_200836.jpg
+D:\Chat_data\MobileFile\mmexport1719918394116.jpg
+D:\Chat_data\MobileFile\mmexport1724669274913.jpg
+D:\Chat_data\MobileFile\Screenshot_2023_1204_193129.png
+D:\Chat_data\MobileFile\SqList.c
+D:\Chat_data\MobileFile\SUBJECT_%5B544a043452dafcfc%5D_%20Cloudflare%20re.png
+D:\Chat_data\MobileFile\【高斯课堂】离散数学.pdf
+D:\Chat_data\MobileFile\别让不会记笔记害了你（记笔记，是知识的积累，也是生活的态度。种类.epub
+D:\Chat_data\MobileFile\大数据技术原理与应用 (林子雨) (Z-Library).pdf
+D:\Chat_data\MobileFile\大话数据结构 (程杰 [程杰]) (Z-Library).epub
+D:\Chat_data\MobileFile\模板：入党申请书.docx
+D:\Chat_data\MobileFile\第66组人工智能实验报告（叶贝斯网络）.docx
+D:\Chat_data\MobileFile\网络是怎样连接的 (户根勤) (Z-Library)-20240330-143510.pdf
+D:\Chat_data\MobileFile\课设 (1) (2) (2) (1)(1).pkt
+D:\Chat_data\MobileFile\附件3：湖北省家庭经济困难学生认定申请表（样表）(1).doc
+D:\Chat_data\MobileFile\附件三：个人学分置换申请表.docx
+D:\Chat_data\MobileFile\附件四：学分置换证明材料.docx
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T08:20:36.869382Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T08:20:43.661776Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-23T13:51:20.697753Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:20.697749Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:20.697774Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:20.697787Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:20.697803Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:20.697849Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-23T13:51:22.104530Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-23T13:51:28.443422Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-24T02:23:13.181182Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:13.181182Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:13.181348Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:13.181460Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:13.181490Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:13.181498Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-24T02:23:14.750395Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-24T02:23:32.155917Z ERROR yazi_plugin::isolate::peek: ExternalError(failed to load plugin from "C:\\Users\\cy\\AppData\\Roaming\\yazi\\config\\plugins\\exifaudio.yazi/init.lua"
+
+Caused by:
+    系统找不到指定的路径。 (os error 3))
+    at yazi-plugin\src\isolate\peek.rs:50
+
+  2024-09-24T02:23:33.422720Z ERROR yazi_plugin::isolate::peek: ExternalError(failed to load plugin from "C:\\Users\\cy\\AppData\\Roaming\\yazi\\config\\plugins\\exifaudio.yazi/init.lua"
+
+Caused by:
+    系统找不到指定的路径。 (os error 3))
+    at yazi-plugin\src\isolate\peek.rs:50
+
+  2024-09-24T02:23:33.726943Z ERROR yazi_plugin::isolate::peek: ExternalError(failed to load plugin from "C:\\Users\\cy\\AppData\\Roaming\\yazi\\config\\plugins\\exifaudio.yazi/init.lua"
+
+Caused by:
+    系统找不到指定的路径。 (os error 3))
+    at yazi-plugin\src\isolate\peek.rs:50
+
+  2024-09-24T02:23:36.277571Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-24T08:48:18.806697Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-24T08:48:18.806892Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Users\nu_home\49a1a858-favicon-32x32.png
+D:\Users\nu_home\ubuntu-ascii-art.txt
+D:\Users\nu_home\数据库开关.sh
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-24T08:48:20.127909Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-24T08:48:20.128125Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\ContextMenuManager.NET.4.0.exe
+D:\DumpStack.log.tmp
+D:\emeditor.rar
+D:\ep_setup.exe
+D:\fetch-github-hosts.zip
+D:\Git-2.46.0-64-bit.exe
+D:\hadoop2.7.tar
+D:\HEU_KMS激活工具.rar
+D:\Typora1.9.4.zip
+D:\图片.lnk
+D:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-24T08:48:56.245359Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-24T08:48:56.245528Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Chat_data\Tencent Files\2873257069\Image\Group2\H%\K3\H%K3TGX[~$Z}F~B)TQH{SQI.png
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T04:40:54.428705Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T04:40:54.428951Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\cy\.ash_history
+C:\Users\cy\.bash_history
+C:\Users\cy\.gitconfig
+C:\Users\cy\.inputrc
+C:\Users\cy\.lesshst
+C:\Users\cy\.npmrc
+C:\Users\cy\.scooper.db
+C:\Users\cy\.viminfo
+C:\Users\cy\NTUSER.DAT
+C:\Users\cy\ntuser.dat.LOG1
+C:\Users\cy\ntuser.dat.LOG2
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\cy\ntuser.ini
+C:\Users\cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T04:40:55.861345Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T04:40:55.861562Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\bootTel.dat
+C:\DumpStack.log.tmp
+C:\pagefile.sys
+C:\swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T08:20:47.813134Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T08:20:47.813351Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Scoop\persist\msys2\home\cy\.bash_logout
+D:\Scoop\persist\msys2\home\cy\.bash_profile
+D:\Scoop\persist\msys2\home\cy\.bashrc
+D:\Scoop\persist\msys2\home\cy\.gitconfig
+D:\Scoop\persist\msys2\home\cy\.lesshst
+D:\Scoop\persist\msys2\home\cy\.p10k.zsh
+D:\Scoop\persist\msys2\home\cy\.profile
+D:\Scoop\persist\msys2\home\cy\.shinit
+D:\Scoop\persist\msys2\home\cy\.vimapikey
+D:\Scoop\persist\msys2\home\cy\.viminfo
+D:\Scoop\persist\msys2\home\cy\.vimrc
+D:\Scoop\persist\msys2\home\cy\.wget-hsts
+D:\Scoop\persist\msys2\home\cy\.zcompdump
+D:\Scoop\persist\msys2\home\cy\.zsh_history
+D:\Scoop\persist\msys2\home\cy\.zsh_history.2vb7hi
+D:\Scoop\persist\msys2\home\cy\.zsh_history.BhtlMU
+D:\Scoop\persist\msys2\home\cy\.zsh_history.eifHU8
+D:\Scoop\persist\msys2\home\cy\.zsh_history.Gb2cEg
+D:\Scoop\persist\msys2\home\cy\.zsh_history.I6SoTQ
+D:\Scoop\persist\msys2\home\cy\.zsh_history.loR7lB
+D:\Scoop\persist\msys2\home\cy\.zsh_history.neSoyP
+D:\Scoop\persist\msys2\home\cy\.zsh_history.ox6qhn
+D:\Scoop\persist\msys2\home\cy\.zsh_history.UwyGeA
+D:\Scoop\persist\msys2\home\cy\.zsh_history.XNZSym
+D:\Scoop\persist\msys2\home\cy\.zshrc
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T08:20:50.296630Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T08:20:50.296923Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\ContextMenuManager.NET.4.0.exe
+D:\DumpStack.log.tmp
+D:\emeditor.rar
+D:\ep_setup.exe
+D:\fetch-github-hosts.zip
+D:\Git-2.46.0-64-bit.exe
+D:\hadoop2.7.tar
+D:\HEU_KMS激活工具.rar
+D:\Typora1.9.4.zip
+D:\图片.lnk
+D:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T08:20:52.816428Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T08:20:52.816616Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\图片\1.jpg
+D:\图片\2.jpg
+D:\图片\3.jpg
+D:\图片\download.jpeg
+D:\图片\fnn1.jpg
+D:\图片\pqufz-yega7.jpg
+D:\图片\space1.jpeg
+D:\图片\space2.jpg
+D:\图片\torino11.jpg
+D:\图片\ubuntu.jpg
+D:\图片\wall85pej2.jpg
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T08:20:53.552405Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T08:20:53.552733Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\图片\[pixiv] おしおしお(4733565)\55860456_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\58363350_p1.png
+D:\图片\[pixiv] おしおしお(4733565)\60711729_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61239042_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61295032_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61524702_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61606352_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61689163_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\61722300_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\62665800_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\63069512_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\63660569_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\64174541_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\64569975_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\65479632_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\66041325_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\66292654_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\67594983_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\68671023_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\70448451_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\72826877_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\72827245_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\73355336_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\73355422_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\73923548_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\74967376_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\74967397_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\76134632_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\78937102_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\78937174_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\82816478_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\87953466_p0.png
+D:\图片\[pixiv] おしおしお(4733565)\87953527_p0.png
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T08:21:13.617798Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:13.618438Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:13.618490Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:13.618918Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:13.619038Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:13.619055Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T08:21:20.862011Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T10:09:55.612188Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:09:55.612249Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:09:55.613398Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:09:55.613413Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:09:55.613469Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:09:55.613477Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-25T10:10:00.916078Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/fetch-github-hosts.zip
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T10:10:06.123662Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T10:10:14.539817Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:38:57.848279Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:38:57.848526Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\cy\.ash_history
+C:\Users\cy\.bash_history
+C:\Users\cy\.gitconfig
+C:\Users\cy\.inputrc
+C:\Users\cy\.lesshst
+C:\Users\cy\.npmrc
+C:\Users\cy\.scooper.db
+C:\Users\cy\.viminfo
+C:\Users\cy\NTUSER.DAT
+C:\Users\cy\ntuser.dat.LOG1
+C:\Users\cy\ntuser.dat.LOG2
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TM.blf
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\cy\NTUSER.DAT{cb387711-3a39-11ed-9d51-efa363b7167e}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\cy\ntuser.ini
+C:\Users\cy\下载 - 快捷方式.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:38:58.745523Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:38:58.745725Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\bootTel.dat
+C:\DumpStack.log.tmp
+C:\pagefile.sys
+C:\swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:39:11.910133Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:39:11.910337Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+d:\ContextMenuManager.NET.4.0.exe
+d:\DumpStack.log.tmp
+d:\emeditor.rar
+d:\ep_setup.exe
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:39:14.787132Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:39:14.787294Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+d:\Git-2.46.0-64-bit.exe
+d:\hadoop2.7.tar
+d:\HEU_KMS激活工具.rar
+d:\Typora1.9.4.zip
+d:\图片.lnk
+d:\重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:39:17.610013Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:39:17.610316Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+d:\图片\1.jpg
+d:\图片\2.jpg
+d:\图片\3.jpg
+d:\图片\download.jpeg
+d:\图片\fnn1.jpg
+d:\图片\pqufz-yega7.jpg
+d:\图片\space1.jpeg
+d:\图片\space2.jpg
+d:\图片\torino11.jpg
+d:\图片\ubuntu.jpg
+d:\图片\wall85pej2.jpg
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-25T12:39:18.441271Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-25T12:39:18.441623Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+d:\图片\[pixiv] おしおしお(4733565)\55860456_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\58363350_p1.png
+d:\图片\[pixiv] おしおしお(4733565)\60711729_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61239042_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61295032_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61524702_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61606352_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61689163_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\61722300_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\62665800_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\63069512_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\63660569_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\64174541_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\64569975_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\65479632_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\66041325_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\66292654_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\67594983_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\68671023_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\70448451_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\72826877_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\72827245_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\73355336_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\73355422_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\73923548_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\74967376_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\74967397_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\76134632_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\78937102_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\78937174_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\82816478_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\87953466_p0.png
+d:\图片\[pixiv] おしおしお(4733565)\87953527_p0.png
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:34:54.515066Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:54.515106Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:54.515205Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:54.515359Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:54.515404Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:54.515411Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T03:34:57.537982Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:35:08.757218Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:35:11.310873Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:35:23.008941Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:35:46.094651Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T03:35:47.116409Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T04:20:44.817569Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:44.818548Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:44.818703Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:44.818752Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:44.818769Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:44.818897Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:20:45.947713Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T04:20:47.725392Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T04:20:50.899994Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-26T04:25:34.947332Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:25:34.947960Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:25:34.948009Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:25:34.948469Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:25:34.948602Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-26T04:25:34.948640Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.910149Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.910218Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.910297Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.911039Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.911060Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:51.911095Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27/mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-09-29T12:58:53.470225Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/kernel
+D:/Typora1.9.4.zip
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-29T12:58:54.874664Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/DumpStack.log.tmp
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-03T13:25:28.400515Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:28.402021Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:28.402112Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\mingw32.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:28.402486Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clangarm64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:28.402870Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\clang64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:28.402888Z ERROR yazi_scheduler::prework::prework: Returned 2 when running preloader `image` with `D:/Scoop/apps/msys2/2024-07-27\ucrt64.ico`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-03T13:25:40.523656Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+D:/ContextMenuManager.NET.4.0.exe
+D:/DumpStack.log.tmp
+D:/emeditor.rar
+D:/ep_setup.exe
+D:/Git-2.46.0-64-bit.exe
+D:/hadoop2.7.tar
+D:/HEU_KMS激活工具.rar
+D:/kernel
+D:/Typora1.9.4.zip
+D:/vcxsrv-64.1.20.14.0.installer.exe
+D:/图吧工具箱2409安装程序.exe
+D:/图片.lnk
+D:/重要文件.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-13T04:56:18.380316Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-13T04:56:18.380537Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\Users\nu_home\49a1a858-favicon-32x32.png
+D:\Users\nu_home\ubuntu-ascii-art.txt
+D:\Users\nu_home\数据库开关.sh
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-13T04:57:15.626976Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-13T04:57:15.627097Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-13T04:57:15.627382Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.ApkViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.AsepriteViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.CorelDrawViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.DDSViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.EpubViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.FitsViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.FolderViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.GraphvizDotViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.HelixViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.KritaVirwer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.OfficeViewer (1).qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.OfficeViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.PostScriptViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.ShapefileViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.TorrentViewer.qlplugin
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.XMindViewer.qlplugin
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-13T04:57:15.627537Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+D:\QuickLook一键预览插件包\QuickLook.Plugin\QuickLook.Plugin.JupyterNotebookViewer.qlplugin
+    at yazi-scheduler\src\prework\prework.rs:49
+
