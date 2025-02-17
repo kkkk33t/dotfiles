@@ -1,0 +1,224 @@
+/*自制Siyuan-Catppuccin主题*/
+:root {
+    /* 主色 */
+    --b3-theme-primary: #8aadf4;
+    --b3-theme-primary-light: rgba(138, 173, 244, 0.72);
+    --b3-theme-primary-lighter: rgba(138, 173, 244, 0.48);
+    --b3-theme-primary-lightest: rgba(138, 173, 244, 0.24);
+    --b3-theme-secondary: #f5a97f;
+    --b3-theme-background: #24273a;
+    --b3-theme-background-light: rgba(181, 191, 226, 0.08);
+    --b3-theme-surface: #363a4f;
+    --b3-theme-surface-light: rgba(54, 58, 79, 0.86);
+    --b3-theme-surface-lighter: rgba(198, 208, 245, 0.06);
+    --b3-theme-error: #ed8796;
+    --b3-theme-success: #a6da95;
+
+    /* 文字颜色 */
+    --b3-theme-on-primary: #cad3f5;
+    --b3-theme-on-secondary: #181926;
+    --b3-theme-on-background: #cad3f5;
+    --b3-theme-on-surface: #a5adcb;
+    --b3-theme-on-surface-light: #b8c0e0;
+    --b3-theme-on-error: #181926;
+
+    /* 字体 */
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "Luxi Sans", "DejaVu Sans", "Hiragino Sans", arial, sans-serif, emojis;
+    --b3-font-family-protyle: var(--b3-font-family);
+    --b3-font-family-code: "Emojis Additional", "Emojis Reset", "JetBrainsMono-Regular", mononoki, Consolas, "Liberation Mono", var(--b3-font-family);
+    --b3-font-family-graph: arial;
+    --b3-font-family-emoji: "Emojis Additional", emojis;
+    --b3-font-family-math: KaTeX_Math;
+    --b3-font-size: 14px;
+
+    /* 顶部工具栏 */
+    --b3-toolbar-background: var(--b3-theme-surface);
+    --b3-toolbar-blur-background: var(--b3-border-color);
+    --b3-toolbar-color: var(--b3-theme-on-surface);
+    --b3-toolbar-hover: rgba(198, 208, 245, 0.08);
+    --b3-toolbar-left-mac: 69px;
+
+    /* 线条 */
+    --b3-border-color: #494d64;
+    --b3-border-radius: 6px;
+    --b3-border-radius-s: 3px;
+    --b3-border-radius-b: 12px;
+
+    /* 滚动条 */
+    --b3-scroll-color: rgba(202, 211, 245, 0.2);
+
+    /* 列表 */
+    --b3-list-hover: rgba(198, 208, 245, 0.06);
+    --b3-list-icon-hover: rgba(165, 173, 203, 0.1);
+
+    /* 菜单 */
+    --b3-menu-background: var(--b3-theme-surface);
+
+    /* 提示 */
+    --b3-tooltips-background: #1e2030;
+    --b3-tooltips-color: var(--b3-theme-on-surface-light);
+    --b3-tooltips-second-color: #6e738d;
+    --b3-tooltips-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+
+    /* 为空提示 */
+    --b3-empty-color: var(--b3-theme-on-surface);
+
+    /* 遮罩 */
+    --b3-mask-background: rgba(10, 12, 16, 0.4);
+
+    /* 卡片背景 */
+    --b3-card-error-color: #ed8796;
+    --b3-card-error-background: #5a1924;
+    --b3-card-warning-color: #eed49f;
+    --b3-card-warning-background: #5a4636;
+    --b3-card-info-color: #8aadf4;
+    --b3-card-info-background: #1e3050;
+    --b3-card-success-color: #a6da95;
+    --b3-card-success-background: #30452c;
+
+    /* 自定义文字 */
+    --b3-font-color1: var(--b3-card-error-color);
+    --b3-font-color2: var(--b3-card-warning-color);
+    --b3-font-color3: var(--b3-card-info-color);
+    --b3-font-color4: var(--b3-card-success-color);
+    --b3-font-color5: var(--b3-theme-on-surface);
+    --b3-font-color6: var(--b3-theme-primary);
+    --b3-font-color7: var(--b3-theme-secondary);
+    --b3-font-color8: var(--b3-theme-error);
+    --b3-font-color9: #f5bde6;
+    --b3-font-color10: #91d7e3;
+    --b3-font-color11: #c6a0f6;
+    --b3-font-color12: #f4dbd6;
+    --b3-font-color13: var(--b3-theme-background);
+    --b3-font-background1: var(--b3-card-error-background);
+    --b3-font-background2: var(--b3-card-warning-background);
+    --b3-font-background3: var(--b3-card-info-background);
+    --b3-font-background4: var(--b3-card-success-background);
+    --b3-font-background5: #3d4055;
+    --b3-font-background6: #1e3050;
+    --b3-font-background7: #5a3d2e;
+    --b3-font-background8: #5a1924;
+    --b3-font-background9: #4d2b4d;
+    --b3-font-background10: #2d5b5b;
+    --b3-font-background11: #3d5a2d;
+    --b3-font-background12: #5a583d;
+    --b3-font-background13: var(--b3-theme-on-background);
+
+    /* 动画效果 */
+    --b3-transition: all 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-width-transition: width 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-color-transition: color 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-background-transition: background 20ms ease-in 0s;
+
+    /* 高亮 */
+    --b3-highlight-color: #2e303e;
+    --b3-highlight-background: #f5a97f;
+    --b3-highlight-current-background: #eed49f;
+
+    /* 下拉菜单 */
+    --b3-select-background: url("data:image/svg+xml;utf8,<svg fill='rgba(165, 173, 203, .68)' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>") no-repeat right 2px center var(--b3-theme-background);
+
+    /* switch */
+    --b3-switch-background: #3d4055;
+    --b3-switch-border: var(--b3-theme-on-surface-light);
+    --b3-switch-hover: rgba(202, 211, 245, 0.1);
+    --b3-switch-checked: var(--b3-theme-primary);
+    --b3-switch-checked-background: #cad3f5;
+    --b3-switch-checked-hover: var(--b3-theme-primary);
+    --b3-switch-checked-hover2: rgba(202, 211, 245, 0.1);
+
+    /* 阴影 */
+    --b3-point-shadow: inset 0 0.5px 0.5px 0.5px rgba(202, 211, 245, 0.09), 0 3px 6px rgba(0, 0, 0, 0.04), 0 0 0 0 transparent;
+    --b3-dialog-shadow: 0 8px 24px #1a1c23;
+    --b3-button-shadow: 0 5px 5px -3px rgb(0 0 0 / 0.2), 0 8px 10px 1px rgb(0 0 0 / 0.14), 0 3px 14px 2px rgb(0 0 0 / 0.12);
+
+    /* 图表颜色 */
+    --b3-graph-p-point: #8aadf4;
+    --b3-graph-heading-point: #c6a0f6;
+    --b3-graph-math-point: #a6da95;
+    --b3-graph-code-point: #91d7e3;
+    --b3-graph-table-point: #7dc4e4;
+    --b3-graph-list-point: #ed8796;
+    --b3-graph-todo-point: #eed49f;
+    --b3-graph-olist-point: #f5bde6;
+    --b3-graph-listitem-point: #f5a97f;
+    --b3-graph-bq-point: #8aadf4;
+    --b3-graph-super-point: #c6a0f6;
+    --b3-graph-doc-point: #cad3f5;
+    --b3-graph-tag-point: #a6da95;
+    --b3-graph-asset-point: #8bd5ca;
+    --b3-graph-line: #5b6078;
+    --b3-graph-ref-line: #ed8796;
+    --b3-graph-tag-line: #a5adcb;
+    --b3-graph-tag-tag-line: #a6da95;
+    --b3-graph-asset-line: #8bd5ca;
+    --b3-graph-hl-point: #f5a97f;
+    --b3-graph-hl-line: #8aadf4;
+
+    /* 编辑器搜索颜色 */
+    --b3-protyle-search-background: #30452c;
+    --b3-protyle-search-border-color: #3d5a2d;
+    --b3-protyle-search-current-background: #1e3050;
+
+    /* 代码片段背景 */
+    --b3-protyle-code-background: rgba(138, 173, 244, 0.15);
+
+    /* 所见即所得行内元素颜色 */
+    --b3-protyle-inline-strong-color: inherit;
+    --b3-protyle-inline-em-color: inherit;
+    --b3-protyle-inline-u-color: inherit;
+    --b3-protyle-inline-s-color: inherit;
+    --b3-protyle-inline-link-color: #8aadf4;
+    --b3-protyle-inline-mark-background: #eed49f;
+    --b3-protyle-inline-mark-color: var(--b3-theme-on-background);
+    --b3-protyle-inline-tag-color: #a5adcb;
+    --b3-protyle-inline-blockref-color: #c6a0f6;
+    --b3-protyle-inline-fileref-color: var(--b3-theme-secondary);
+
+    /* PDF */
+    --b3-pdf-selection: #779170;
+    --sidebar-width: 200px;
+    --b3-pdf-offset: 0;
+    --b3-pdf-background1: var(--b3-theme-error);
+    --b3-pdf-background2: #f5a97f;
+    --b3-pdf-background3: #eed49f;
+    --b3-pdf-background4: #a6da95;
+    --b3-pdf-background5: #ed8796;
+    --b3-pdf-background6: #8aadf4;
+    --b3-pdf-background7: #c6a0f6;
+    --b3-pdf-dark: #1e2030;
+
+    /* 表格 */
+    --b3-table-even-background: rgba(202, 211, 245, 0.03);
+
+    /* 嵌入块 */
+    --b3-embed-background: transparent;
+
+    /* 引述块 */
+    --b3-bq-background: transparent;
+
+    /* 父块颜色 */
+    --b3-parent-background: var(--b3-theme-background);
+}
+
+/* 多语言字体配置 */
+:root:lang(zh_CN) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "PingFang SC", "Luxi Sans", "DejaVu Sans", "Hiragino Sans GB", "Source Han Sans SC", arial, "Microsoft Yahei", sans-serif, emojis;
+}
+
+:root:lang(zh_CHT) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "PingFang TC", "Luxi Sans", "DejaVu Sans", "Hiragino Sans TC", "Source Han Sans TC", "Microsoft JhengHei", arial, sans-serif, emojis;
+}
+
+:root:lang(ja_JP) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "Luxi Sans", "DejaVu Sans", "Hiragino Sans", "Yu Gothic UI", arial, sans-serif, emojis;
+}
+
+/* 特殊样式修正 */
+.protyle-action--order::after {
+    mix-blend-mode: screen;
+}
+
+.b3-text-field::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
