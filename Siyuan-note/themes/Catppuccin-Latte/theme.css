@@ -1,0 +1,135 @@
+:root {
+    /* === Catppuccin-Latte 核心配色 === */
+    /* 主色 */
+    --b3-theme-primary: #1e66f5;       /* Latte Blue */
+    --b3-theme-primary-light: rgba(30, 102, 245, 0.54);
+    --b3-theme-primary-lighter: rgba(30, 102, 245, 0.38);
+    --b3-theme-primary-lightest: rgba(30, 102, 245, 0.12);
+    --b3-theme-secondary: #ea76cb;     /* Latte Pink */
+    --b3-theme-background: #eff1f5;    /* Latte Base */
+    --b3-theme-background-light: #e6e9ef;
+    --b3-theme-surface: #e6e9ef;       /* Latte Surface0 */
+    --b3-theme-surface-light: rgba(230, 233, 239, 0.86);
+    --b3-theme-surface-lighter: #dce0e8; /* Latte Surface1 */
+    --b3-theme-error: #d20f39;         /* Latte Red */
+    --b3-theme-success: #40a02b;       /* Latte Green */
+
+    /* 文字颜色 */
+    --b3-theme-on-primary: #eff1f5;    /* Base */
+    --b3-theme-on-secondary: #eff1f5;
+    --b3-theme-on-background: #4c4f69; /* Latte Text */
+    --b3-theme-on-surface: #5c5f77;    /* Latte Subtext0 */
+    --b3-theme-on-surface-light: rgba(92, 95, 119, 0.68);
+    --b3-theme-on-error: #eff1f5;
+
+    /* === 保持原有结构 === */
+    /* 字体 (保持原样) */
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "Luxi Sans", "DejaVu Sans", "Hiragino Sans", arial, sans-serif, emojis;
+    --b3-font-family-protyle: var(--b3-font-family);
+    --b3-font-family-code: "Emojis Additional", "Emojis Reset", "JetBrainsMono-Regular", mononoki, Consolas, "Liberation Mono", var(--b3-font-family);
+    --b3-font-family-graph: arial;
+    --b3-font-family-emoji: "Emojis Additional", emojis;
+    --b3-font-family-math: KaTeX_Math;
+    --b3-font-size: 14px;
+
+    /* 顶部工具栏 */
+    --b3-toolbar-background: var(--b3-theme-surface);
+    --b3-toolbar-blur-background: #fcfcfc;
+    --b3-toolbar-color: var(--b3-theme-on-surface);
+    --b3-toolbar-hover: var(--b3-theme-background-light);
+    --b3-toolbar-left-mac: 69px;
+
+    /* 线条 */
+    --b3-border-color: var(--b3-theme-surface-lighter);
+    --b3-border-radius: 6px;
+    --b3-border-radius-s: 3px;
+    --b3-border-radius-b: 12px;
+
+    /* 滚动条 */
+    --b3-scroll-color: rgba(76, 79, 105, 0.2); /* 使用Latte Text颜色 */
+
+    /* 列表 */
+    --b3-list-hover: rgba(76, 79, 105, 0.05); /* 更柔和的悬停效果 */
+
+    /* 菜单 */
+    --b3-menu-background: var(--b3-theme-surface);
+
+    /* 提示 */
+    --b3-tooltips-background: #4c4f69;       /* Latte Text */
+    --b3-tooltips-color: #eff1f5;            /* Base */
+    --b3-tooltips-second-color: #9ca0b0;     /* Latte Overlay1 */
+    --b3-tooltips-shadow: 0 2px 8px rgba(76, 79, 105, 0.1);
+
+    /* 遮罩 */
+    --b3-mask-background: rgba(220, 220, 220, 0.4);
+
+    /* === 卡片颜色 === */
+    --b3-card-error-color: #fe640b;          /* Latte Peach */
+    --b3-card-error-background: #f5e0dc;     /* Latte Rosewater */
+    --b3-card-warning-color: #df8e1d;        /* Latte Yellow */
+    --b3-card-warning-background: #f9e2af;
+    --b3-card-info-color: #04a5e5;           /* Latte Sapphire */
+    --b3-card-info-background: #bae0fa;
+    --b3-card-success-color: #40a02b;        /* Latte Green */
+    --b3-card-success-background: #d7eed8;
+
+    /* === 图表颜色 === */
+    --b3-graph-p-point: #179299;             /* Latte Teal */
+    --b3-graph-heading-point: #8839ef;       /* Latte Mauve */
+    --b3-graph-math-point: #40a02b;          /* Latte Green */
+    --b3-graph-code-point: #04a5e5;          /* Latte Sapphire */
+    --b3-graph-table-point: #1e66f5;         /* Latte Blue */
+    --b3-graph-list-point: #ea76cb;          /* Latte Pink */
+    --b3-graph-todo-point: #df8e1d;          /* Latte Yellow */
+    --b3-graph-bq-point: #fe640b;            /* Latte Peach */
+    --b3-graph-super-point: #d20f39;         /* Latte Red */
+
+    /* === 动态效果 === */
+    --b3-transition: all 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-width-transition: width 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-color-transition: color 0.2s cubic-bezier(0, 0, 0.2, 1) 0ms;
+    --b3-background-transition: background 20ms ease-in 0s;
+
+    /* === 代码块 === */
+    --b3-protyle-code-background: rgba(204, 208, 218, 0.3); /* 更柔和的背景 */
+
+    /* === 开关控件 === */
+    --b3-switch-background: #ccd0da;         /* Latte Overlay0 */
+    --b3-switch-checked-background: #40a02b; /* Latte Green */
+}
+
+/* === 语言特定字体 === */
+:root:lang(zh_CN) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "PingFang SC", "Luxi Sans", "DejaVu Sans", arial, "Microsoft Yahei", "Hiragino Sans GB", "Source Han Sans SC", sans-serif, emojis;
+}
+
+:root:lang(zh_CHT) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "PingFang TC", "Luxi Sans", "DejaVu Sans", arial, "Microsoft JhengHei", "Hiragino Sans TC", "Source Han Sans TC", sans-serif, emojis;
+}
+
+:root:lang(ja_JP) {
+    --b3-font-family: "Emojis Additional", "Emojis Reset", BlinkMacSystemFont, Helvetica, "Luxi Sans", "DejaVu Sans", "Hiragino Sans", "Yu Gothic UI", arial, sans-serif, emojis;
+}
+
+/* === 代码块样式 === */
+.protyle-action--order::after {
+    mix-blend-mode: multiply;
+}
+
+.b3-typography .code-block,
+.protyle-wysiwyg .code-block {
+    background-color: var(--b3-protyle-code-background);
+    border-radius: var(--b3-border-radius-s);
+    border: 1px solid var(--b3-border-color);
+}
+
+/* === 表格斑马纹 === */
+.b3-typography table tr:nth-child(even),
+.protyle-wysiwyg table tr:nth-child(even) {
+    background-color: rgba(230, 233, 239, 0.3); /* Surface0透明度 */
+}
+
+/* === 聚焦高亮 === */
+.protyle-wysiwyg [data-node-id]:focus {
+    box-shadow: 0 0 0 2px var(--b3-theme-primary-lightest);
+}
